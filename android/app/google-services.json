@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018881351612",
+    "project_id": "fir-3b6a5",
+    "storage_bucket": "fir-3b6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018881351612:android:51a8f02e813b1e360cd5b9",
+        "android_client_info": {
+          "package_name": "com.example.flexfilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018881351612-8srpgbujod9n1rc0v6eiajvc0pp2bpuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flexfilms",
+            "certificate_hash": "7f2d58527c96e3180b3d4687195c5cd1790478b3"
+          }
+        },
+        {
+          "client_id": "1018881351612-m7hv1n65iee4eqacu8sb7do51gcjt6t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHze7LeN0TbfWa32A6wBkabv288X-coLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018881351612-m7hv1n65iee4eqacu8sb7do51gcjt6t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
