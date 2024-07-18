@@ -79,7 +79,7 @@ class _HomeState extends State<Home> {
           HomeNews(),
           HomeInnovation(),
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: EdgeInsets.all(8.0),
             child: Container(
               color: Color.fromARGB(255, 225, 225, 225),
               child: Column(
