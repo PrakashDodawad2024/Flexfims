@@ -23,7 +23,7 @@ class _indianState extends State<indian> {
   //       position: _currentMapPosition,
   //       infoWindow: InfoWindow(
   //           title: 'UFLEX LIMITED (Films Business)',
-  //           snippet: 'A - 1, Sector - 60,Noida – 201301 (U.P.) India.'),
+  //           snippet: 'A - 1, Sector  60,Noida – 201301 (U.P.) India.'),
   //       icon: BitmapDescriptor.defaultMarker,
   //     ));
   //   });
@@ -42,7 +42,7 @@ class _indianState extends State<indian> {
     return Stack(
       children: <Widget>[
         Container(
-          height: 250,
+          height: 260,
           child: GoogleMap(
               onMapCreated: _onMapCreated,
               initialCameraPosition: _kGoogle,
